@@ -1,6 +1,8 @@
-# john_baskerville
+# John Baskerville
 ==================
-[Version 1](https://cormacixd.github.io/john_baskerville/johnbaskerville.html)
+
+
+[Version 1] (https://cormacixd.github.io/john_baskerville/johnbaskerville.html)
 *04 November 202*
 Created my first webpage marking up some plain text and an HTML5 page.
 
