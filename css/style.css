@@ -1,0 +1,75 @@
+/* -------CSS RESET ------*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+} 
+
+/* ------ MAIN STYLING -----*/
+body  {
+    width: 80%;
+    max-width: 760px;
+    margin: auto;
+    background: #d3cdcd;
+    color: #333333;
+}
+
+/* -------- TYPEOGRAPHY -----*/
+h1, h2 {
+    font-weight: normal;
+    text-align: left;
+}
+
+p, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.4
+}
+
+h1 {
+    font-size: 3.827em;
+    color: #ee3d3d;
+    margin-top: 2em;
+} 
+
+h2 {
+    font-size: 1.649em;
+    color: #ce295b;
+    margin: 3em 0 0.5em 0;
+}
+
+blockquote {
+    font-size: 1.200em;
+    color: #8d3f43;
+    text-align: center; 
+    hanging-punctuation: first;
+    text-indent:  -0.44em;
+
+}
+
+blockquote cite { 
+    font-size: 0.75;
+    color: #333333;
+}
+
+header h2 {
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+header p {
+    font-size: 1.154em;
+    text-align: left;
+    
+}
+
+footer {
+    text-align: center;
+    font-size: 0.700;
+    padding: 4em 0 8em 0;
+    color: rgba(0, 0, 0, 0.425) 
+
+
+}
