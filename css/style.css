@@ -64,6 +64,59 @@ header p {
     text-align: left;
     
 }
+/*---- STYLING LINKS ----*/
+a {
+    color: #da6767e8;
+    text-decoration: none;
+}
+a:hover {
+    color: #529fcc;
+    border-bottom: 1px dotted;
+}
+
+/* ------ NAVIGATION------*/
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #cf4047;
+    padding: len 0;
+    font-size: 1.2em;
+    
+
+}
+nav ul {
+    text-align:center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+
+
+nav ul li {
+        display:inline;
+        margin:34.6px;
+        background: none;
+        width: 100;
+    }
+
+nav a {
+    color: #d3cdcd
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #aaac78;
+}
+
+/*
+nav a:link {
+    color: #ca3a41;
+}*/
+
+
 
 footer {
     text-align: center;
