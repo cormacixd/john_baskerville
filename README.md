@@ -20,12 +20,8 @@ Adding new Baskerville File and applied my first ccs styling.
 
 
 
-
-
-
-
-
-
-
 History of Type
 ==================
+[VERSION 1] (https://cormacixd.github.io/john_baskerville/history-one.html)
+*09 November 2020*
+Marking up some plain text with HTML. 
