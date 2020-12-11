@@ -70,6 +70,10 @@ header p {
     
 }
 
+section p {
+    font-family: 'Raleway', sans-serif;
+}
+
 hr {
     margin: 2cm 0;
     height: 1px 
@@ -100,6 +104,10 @@ a {
 a:hover {
     color: #529fcc;
     border-bottom: 1px dotted;
+}
+
+footer {
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* ------ NAVIGATION------*/

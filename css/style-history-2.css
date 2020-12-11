@@ -1,0 +1,131 @@
+/* -------CSS RESET ------*/
+
+ {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+} 
+
+/* ------ MAIN STYLING -----*/
+body  {
+    width: 80%;
+    max-width: 760px;
+    margin: auto;
+    background: #d3cdcd;
+    color: #333333;
+}
+
+
+/* -------- TYPEOGRAPHY -----*/
+
+h1, h2 {
+    font-weight: normal;
+    text-align: left;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 4em;
+}
+
+
+h1 {
+    font-size: 2.4em;
+    color: #685151;
+    margin-top: 1.20em;
+}
+
+
+h2 {
+    font-size: 1.649em;
+    color: #8b4c4c;
+    margin: 3em 0 0.5em 0;
+}
+
+p  {
+    margin-bottom: 1.2em;
+    line-height: 1.2
+}
+
+blockquote {
+
+    color: #382b2b;
+    text-align: center;
+    font-size: 1.1em;
+    text-indent:  -0.35m;
+    font-weight: bold;
+
+}
+
+blockquote cite {
+    font-weight: normal;
+    font-size: 0.75;
+    color: #252525;
+}
+
+
+/*---- STYLING LINKS ----*/
+a {
+    color: #da6767e8;
+    text-decoration: none;
+}
+a:hover {
+    color: #529fcc;
+    border-bottom: 1px dotted;
+}
+
+/* ------ NAVIGATION------*/
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #685151e1;
+    padding: len 0;
+    font-size: 1.2em;
+    -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.212);
+    -moz-box-shadow:    2px 2px 2px rgba(0, 0, 0, 0.253);
+    box-shadow:         2px 2px 2px rgba(0, 0, 0, 0.301);
+    z-index:999;
+
+}
+
+nav ul {
+    text-align:center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+
+nav ul li {
+        display:inline;
+        margin:34.6px;
+        background: none;
+        width: 100;
+    }
+
+nav a {
+    color: #d3cdcd
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #aaac78;
+}
+
+
+
+
+footer {
+    text-align: center;
+    font-size: 0.500;
+    font-weight: bolder;
+    padding: 4em 0 8em 0;
+    color: rgba(8, 8, 8, 0.877) 
+   
+
+
+
+}

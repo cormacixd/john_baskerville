@@ -10,6 +10,10 @@ Created my first webpage marking up some plain text and an HTML5 page.
 *14th November 2020*
 Adding new Baskerville File and applied my first ccs styling.
 
+[Version 3] (https://cormacixd.github.io/john_baskerville/johnbaskerville-v3.html)
+*22nd November 2020*
+Adding new Baskerville File and applied my first ccs styling.
+
 
 
 
