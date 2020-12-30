@@ -154,12 +154,51 @@ nav a:hover {
     color: #aaac78;
 }
 
-/*
-nav a:link {
-    color: #ca3a41;
-}*/
+/*------STYLING TABLE-------*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 90%;
+    color:#000000;
+}
+
+    caption {
+        margin: 1.5em 0;
+        text-transform: uppercase;
+        font-family: 'Open Sans', sans-serif;
+    }
 
 
+th {
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: left;
+    background: #d37373;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #d3cdcd
+}
+
+th, td {
+    padding: 0.8em;
+    
+}
+
+table, td {
+    background: #a89090; /*----BACKGROUND CHANGE WHOLE*/
+    border: 2px solid #d3cdcd
+
+}
+
+
+
+
+
+/*------FOOTER-------*/
 
 footer {
     text-align: center;
