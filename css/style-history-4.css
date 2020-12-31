@@ -20,18 +20,16 @@ body  {
 
 /* -------- TYPEOGRAPHY -----*/
 
-h1, h2 {
-    font-weight: normal;
-    text-align: left;
-    font-family: 'Roboto', sans-serif;
 
-}
 
 header h1 {
     font-weight: bold;
     font-size: 4em;
+    font-family: 'DM Serif Display', serif;
  
 }
+
+
 
 header p {
     font-family: 'PT Serif', serif;
@@ -49,12 +47,13 @@ h2 {
     font-size: 1.649em;
     color: #8b4c4c;
     margin: 3em 0 0.5em 0;
+    font-family: 'DM Serif Display', serif;
 }
 
 p  {
     margin-bottom: 1.2em;
-    line-height: 1.2
-  
+    line-height: 1.2;
+
 }
 
 p {
@@ -103,6 +102,11 @@ a:hover {
     border-bottom: 1px dotted;
 }
 
+.part-1h2
+
+{
+    font-family: 'Roboto', sans-serif;
+}
 
 /* ------ NAVIGATION------*/
 nav {
@@ -144,10 +148,11 @@ nav a:hover {
     color: #aaac78;
 }
 
+
 /*------ TABLE -------*/
 
 .tableheading h2 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'DM Serif Display', serif;
     font-weight: bold;
     font-size: 2em;
     text-align: center;
@@ -195,4 +200,17 @@ footer {
     font-weight: bolder;
     padding: 5em 0 8em 0;
     color: rgba(20, 20, 20, 0.877) 
+}
+
+/*---- IMAGES ----*/
+
+img {
+    align-items: left;
+    opacity: 90%;
+    border-radius: 0px 100px 0px 100px;
+    display: block;
+    max-width: 100%;
+    padding: 0;
+  
+  
 }

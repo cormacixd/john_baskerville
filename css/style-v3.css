@@ -84,9 +84,6 @@ hr {
 
 }
 
-nav, footer, {
- 
-}
 
 .leader {
     text-transform: uppercase;
@@ -123,7 +120,7 @@ nav {
   padding-right: 20px;
   padding-bottom: 20px;
   padding-left: 40px;
-  opacity: 80%;
+  opacity: 90%;
     
 
 }
@@ -194,6 +191,24 @@ table, td {
 
 }
 
+/*------ IMAGES -------*/
+img {
+    align-items: center;
+    opacity: 90%;
+    border-radius: 0px 80px 0px 0px;
+    display: block;
+  margin: auto;
+  padding-right: 6%;
+    float: right;
+ position: relative;
+ bottom: 0px;
+ left: 12px;
+
+
+
+
+
+}
 
 
 

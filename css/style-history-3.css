@@ -23,14 +23,13 @@ body  {
 h1, h2 {
     font-weight: normal;
     text-align: left;
-    font-family: 'Roboto', sans-serif;
-
+    font-family: 'DM Serif Display', serif;
 }
 
 header h1 {
     font-weight: bold;
     font-size: 4em;
- 
+    font-family: 'DM Serif Display', serif;
 }
 
 header p {
@@ -49,6 +48,7 @@ h2 {
     font-size: 1.649em;
     color: #8b4c4c;
     margin: 3em 0 0.5em 0;
+    font-family: 'DM Serif Display', serif;
 }
 
 p  {
@@ -92,6 +92,11 @@ hr {
     margin:auto;
 }
 
+.part-1h2
+
+{
+    font-family: 'Roboto', sans-serif;
+}
 
 /*---- STYLING LINKS ----*/
 a {
@@ -102,6 +107,8 @@ a:hover {
     color: #529fcc;
     border-bottom: 1px dotted;
 }
+
+
 
 
 /* ------ NAVIGATION------*/
