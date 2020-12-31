@@ -34,13 +34,13 @@ History of Type
 Marking up some plain text with HTML. 
 
 [VERSION 2] (https://cormacixd.github.io/john_baskerville/history-two.html)
-*09 November 2020*
+*17th November 2020*
 Marking up some plain text with HTML. 
 
 [VERSION 3] (https://cormacixd.github.io/john_baskerville/history-three.html)
-*09 November 2020*
+*26th November 2020*
 Marking up some plain text with HTML. 
 
 [VERSION 4] (https://cormacixd.github.io/john_baskerville/history-four.html)
-*09 November 2020*
+*8th December 2020*
 Marking up some plain text with HTML. 
