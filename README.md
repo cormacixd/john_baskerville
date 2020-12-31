@@ -15,7 +15,7 @@ Adding new Baskerville File and applied my first ccs styling.
 Linked and applied multiple google fonts.
 
 
-[Version 3] (https://cormacixd.github.io/john_baskerville/johnbaskerville-v4.html)
+[Version 4] (https://cormacixd.github.io/john_baskerville/johnbaskerville-v4.html)
 *09th December 2020*
 Added and styled a HTML table and imported images.
 
