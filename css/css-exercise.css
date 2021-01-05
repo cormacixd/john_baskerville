@@ -1,0 +1,171 @@
+/* -------CSS RESET ------*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+} 
+
+
+body{
+    max-width: 680px;
+    padding: 0 30px;
+    margin: auto;
+}
+
+
+/* -------TYPOGRAPHY ------*/
+
+blockquote, h1, h3, h2, .dropcap  {
+    
+    color: rgb(28, 120, 173)
+}  
+
+h1, h2, h3 {
+    font-weight:normal;
+    margin: 0;
+}
+
+p {
+    line-height: 1.56em;
+    padding-bottom: 15px;
+}
+
+h1 {
+    font-size: 5.063em;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 2.25em;
+    margin: -.5em 0 0 .5em;
+    padding-bottom: 30px;
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    
+
+}
+
+h3 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+blockquote {
+    font-size: 1.5;
+    margin: 0;
+    font-weight: normal;
+  font-style: italic;
+  padding: 1.5em 0 0 0;
+  hanging-punctuation: first;
+  text-indent: -0.43em;
+}
+
+cite {
+    color: #999; font-size:0.667;
+}
+
+.intro {
+    font-size: 1.25em;
+}
+
+.dropcap {
+    float: left;
+    font-size: 4.7em;
+    line-height: 0.5em;
+    margin-right: 0px;
+    
+}
+
+.intro {
+    font-size: 1.25;
+}
+
+.dropcap {
+    float:left;
+    font-size: 4.7em;
+    line-height: 0.5em;
+    margin-right: 0px;
+}
+
+/*------ CSS VERSION 1 -------*/
+
+.version1 {
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 50px;
+}
+
+
+.version1 h2 {
+    padding-bottom: 40px;
+    font-style: italic;
+}
+
+.version1 .intro {
+    padding-bottom: 35px;
+}
+
+blockquote {
+    line-height: 1.5em;
+    font-size: 1.5em;
+}
+
+.version1 cite {
+    font-size: 1em;
+    padding-top: 18px;
+}
+
+
+
+/*------ CSS VERSION 2 -------*/
+
+.version2 {
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.introcaps {
+text-transform: uppercase;
+}
+
+.version2 cite {
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+.version2 p+p {
+    margin-bottom: -1em;
+}
+
+.version2 p+p+p {
+    text-indent: 1.5em;
+}
+
+.version2 blockquote {
+font-style: ;
+font-weight: semi-bold;
+}
+
+cite  {
+    text-transform: uppercase;
+   
+}
+
+
+/*------ CSS VERSION 3 -------*/
+
+.version3 {
+    
+}
+
+   
+   hr {
+    margin: 100px 0;
+    height: 1px;    
+    background-color:rgb(13, 121, 110);
+    color:rgb(13, 121, 110);
+    border: 0 none;
+    }
+    
+    .version2 blockquote {font-family: 'Open Sans', sans-serif;}
