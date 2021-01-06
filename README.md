@@ -19,8 +19,8 @@ Linked and applied multiple google fonts.
 *09th December 2020*
 Added and styled a HTML table and imported images.
 
-
-
+(https://cormacixd.github.io/john_baskerville/css-exercise.html)
+css-exercise.html
 
 
 
