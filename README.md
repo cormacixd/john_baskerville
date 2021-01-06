@@ -44,4 +44,4 @@ Marking up some plain text with HTML.
 
 [VERSION 4] (https://cormacixd.github.io/john_baskerville/history-four.html)
 *8th December 2020*
-Marking up some plain text with HTML. 
+Added and styled a HTML table and imported images.
